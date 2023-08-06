@@ -86,5 +86,23 @@
 
             return bottles;
         }
+
+        /* min 함수를 사용해서 더 짧게 만들기
+        private static int[] Solution(int[] capacities, int[] bottles, int[] fromId, int[] toId)
+        {
+            for (int i = 0; i < fromId.Length; i++)
+            {
+                int fromNum = fromId[i];
+                int toNum = toId[i];
+                
+                int vol = Math.Min(bottles[fromNum], capacities[toNum] - bottles[toNum]);
+
+                bottles[fromNum] -= vol;
+                bottles[toNum] += vol;
+            }
+
+            return bottles;
+        }
+        */
     }
 }
