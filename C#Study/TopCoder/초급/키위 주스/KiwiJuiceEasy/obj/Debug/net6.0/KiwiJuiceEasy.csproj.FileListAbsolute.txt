@@ -1,0 +1,15 @@
+C:\C#Study\visualStudio\KiwiJuiceEasy\bin\Debug\net6.0\KiwiJuiceEasy.exe
+C:\C#Study\visualStudio\KiwiJuiceEasy\bin\Debug\net6.0\KiwiJuiceEasy.deps.json
+C:\C#Study\visualStudio\KiwiJuiceEasy\bin\Debug\net6.0\KiwiJuiceEasy.runtimeconfig.json
+C:\C#Study\visualStudio\KiwiJuiceEasy\bin\Debug\net6.0\KiwiJuiceEasy.dll
+C:\C#Study\visualStudio\KiwiJuiceEasy\bin\Debug\net6.0\KiwiJuiceEasy.pdb
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.csproj.AssemblyReference.cache
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.AssemblyInfoInputs.cache
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.AssemblyInfo.cs
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.csproj.CoreCompileInputs.cache
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.dll
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\refint\KiwiJuiceEasy.dll
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.pdb
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\KiwiJuiceEasy.genruntimeconfig.cache
+C:\C#Study\visualStudio\KiwiJuiceEasy\obj\Debug\net6.0\ref\KiwiJuiceEasy.dll
