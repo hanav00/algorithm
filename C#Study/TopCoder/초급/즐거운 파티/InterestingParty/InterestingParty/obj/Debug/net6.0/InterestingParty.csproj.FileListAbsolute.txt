@@ -1,0 +1,15 @@
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\bin\Debug\net6.0\InterestingParty.exe
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\bin\Debug\net6.0\InterestingParty.deps.json
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\bin\Debug\net6.0\InterestingParty.runtimeconfig.json
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\bin\Debug\net6.0\InterestingParty.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\bin\Debug\net6.0\InterestingParty.pdb
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.csproj.AssemblyReference.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.AssemblyInfoInputs.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.AssemblyInfo.cs
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.csproj.CoreCompileInputs.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\refint\InterestingParty.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.pdb
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\InterestingParty.genruntimeconfig.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingParty\InterestingParty\obj\Debug\net6.0\ref\InterestingParty.dll
