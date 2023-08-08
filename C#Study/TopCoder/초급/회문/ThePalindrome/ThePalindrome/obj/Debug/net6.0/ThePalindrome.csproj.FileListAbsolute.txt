@@ -1,0 +1,15 @@
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\bin\Debug\net6.0\ThePalindrome.exe
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\bin\Debug\net6.0\ThePalindrome.deps.json
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\bin\Debug\net6.0\ThePalindrome.runtimeconfig.json
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\bin\Debug\net6.0\ThePalindrome.dll
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\bin\Debug\net6.0\ThePalindrome.pdb
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.csproj.AssemblyReference.cache
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.AssemblyInfoInputs.cache
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.AssemblyInfo.cs
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.csproj.CoreCompileInputs.cache
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.dll
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\refint\ThePalindrome.dll
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.pdb
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ThePalindrome.genruntimeconfig.cache
+C:\Users\mykim\Desktop\TopCoder\ThePalindrome\ThePalindrome\obj\Debug\net6.0\ref\ThePalindrome.dll
