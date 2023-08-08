@@ -1,0 +1,15 @@
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.csproj.AssemblyReference.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.AssemblyInfoInputs.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.AssemblyInfo.cs
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.csproj.CoreCompileInputs.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\bin\Debug\net6.0\InterestingDigits.exe
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\bin\Debug\net6.0\InterestingDigits.deps.json
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\bin\Debug\net6.0\InterestingDigits.runtimeconfig.json
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\bin\Debug\net6.0\InterestingDigits.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\bin\Debug\net6.0\InterestingDigits.pdb
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\refint\InterestingDigits.dll
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.pdb
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\InterestingDigits.genruntimeconfig.cache
+C:\Users\mykim\Desktop\TopCoder\InterestingDigits\InterestingDigits\obj\Debug\net6.0\ref\InterestingDigits.dll
