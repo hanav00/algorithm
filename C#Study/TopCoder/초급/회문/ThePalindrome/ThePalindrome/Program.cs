@@ -1,4 +1,4 @@
-﻿namespace ThePalindrome
+namespace ThePalindrome
 {
     class ThePalindrome
     {
@@ -25,24 +25,29 @@
         }
         static int Solution(string s)
         {
-            int index = s.Length;
-            int n = 0;
-
-            for (int i = 0; i < index - 1 - n; i++)
+            string reverse =  new string(s.Reverse().ToArray());
+            string answer = "";
+            for (int i=0; i<s.Length; i++)
             {
-                if (s[i] != s[index - 1 - n])
+                string checkWord = s + reverse.Substring(s.Length - i, i);
+                bool check = true;
+                for (int k=0; k<(checkWord.Length+1)/2; k++)
                 {
-                    s = s.Substring(0, index) + s[i] + s.Substring(index, i);
-                    Console.WriteLine(s);
+                    if (checkWord[k] != checkWord[checkWord.Length - k - 1])
+                    {
+                        check = false;
+                        break;
+                    }
+                    
                 }
-                else
+                if (check)
                 {
-                    n++;
+                    answer = checkWord;
+                    break;
                 }
             }
-
-            return s.Length;
+            Console.WriteLine(answer);
+            return answer.Length;
         }
-
     }
 }
