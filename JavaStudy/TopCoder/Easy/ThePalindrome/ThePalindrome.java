@@ -8,7 +8,7 @@ public class ThePalindrome {
 	}
 	
 	public String check(String word, int current, String firstWord) {
-		if (word.length() > 50) return "stopped";
+		//무한루프 방지용: if (word.length() > 50) return "stopped";
 		for (int i=current; i<word.length(); i++) {
 			if (word.charAt(i) != word.charAt(word.length()-1-i)) {
 				word = firstWord + word.charAt(i) + word.substring(firstWord.length());
