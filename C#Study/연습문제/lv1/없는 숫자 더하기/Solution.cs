@@ -7,11 +7,9 @@ public class Solution {
         for (int i=0; i<10; i++){
             check.Add(i,1);
         }
-        
         foreach (int num in numbers){
             check[num] = check[num] - 1;
         }
-        
         int answer = 0;
         foreach (KeyValuePair<int, int> item in check ){
             answer += item.Key * item.Value;
