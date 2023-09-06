@@ -1,9 +1,10 @@
 using System;
 using System.Linq;
 
-public class Solution {
-    public int[] solution(int[] array) {
-
+public class Solution 
+{
+    public int[] solution(int[] array) 
+    {
         int max = array.Max();
         int maxIndex = Array.IndexOf(array, max);
         
