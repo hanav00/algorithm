@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             /*
-             테스트 케이스
+            TestCase
             int baseNum = 10;
             return: {3,9}
 
